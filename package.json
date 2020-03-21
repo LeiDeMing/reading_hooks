@@ -1,0 +1,12 @@
+{
+  "name": "reading_hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LeiDeMing/reading_hooks.git",
+  "author": "LeiDeMing <136371773@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8"
+  }
+}
