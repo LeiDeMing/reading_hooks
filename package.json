@@ -6,7 +6,10 @@
   "author": "LeiDeMing <136371773@qq.com>",
   "license": "MIT",
   "dependencies": {
+    "github-webhook-handler": "^1.0.0",
     "koa": "^2.11.0",
-    "koa-router": "^8.0.8"
+    "koa-router": "^8.0.8",
+    "log4js": "^6.1.2",
+    "mongoose": "^5.9.5"
   }
 }
