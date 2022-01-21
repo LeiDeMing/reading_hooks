@@ -9,7 +9,7 @@
     "github-webhook-handler": "^1.0.0",
     "koa": "^2.11.0",
     "koa-router": "^8.0.8",
-    "log4js": "^6.1.2",
+    "log4js": "^6.4.0",
     "mongoose": "^5.9.5"
   }
 }
